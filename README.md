@@ -158,7 +158,7 @@ Objective: Extract fundamental insights from the dataset.
 ### Visualization
 
 ```text
-visuals/basic_viz.png
+C:\Users\shrey\Downloads\data_analyst_project\python_sql\visuals\basic_viz.png
 ```
 
 ---
