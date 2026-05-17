@@ -34,7 +34,7 @@ PYTHON_SQL/
 │   └── sellers.csv
 │
 ├── notebooks/
-│   ├── SQL_EcommerceQueries_Analaysis.ipynb
+│   ├── SQL_Ecommerce_Queries_Analaysis.ipynb
 │   ├── ecommerce_analysis.ipynb
 │   ├── basic_viz.py
 │   ├── intermediate_viz.py
