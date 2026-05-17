@@ -152,7 +152,7 @@ Objective: Extract fundamental insights from the dataset.
 | Unique cities where customers are located | 4,119 unique cities |
 | Number of orders placed in 2017 | 45,101 orders |
 | Total sales per category | Health & Beauty — R$1.25M |
-| Percentage of orders paid in installments | 49.42% |
+| Percentage of orders paid in installments | 51.46% |
 | Number of customers from each state | SP leads with 41,746 |
 
 ### Visualization
