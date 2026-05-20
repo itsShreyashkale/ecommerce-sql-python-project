@@ -44,7 +44,7 @@ PYTHON_SQL/
 │   └── setup_db.py
 │
 ├── sql/
-|   ├── Ecommerce_project_sql_file.sql
+|   ├── Ecommerce_Analysis.sql
 │   ├── basic_queries.sql
 │   ├── intermediate_queries.sql
 │   ├── advance_queries.sql
