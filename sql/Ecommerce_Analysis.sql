@@ -1,14 +1,5 @@
 -- ============================================================
 -- E-COMMERCE DATA ANALYSIS - SQL FILE
--- Compatible with: SQLite (VS Code / DB Browser for SQLite)
--- All 15 questions with outputs matching the presentation PDF
--- ============================================================
-
--- ============================================================
--- SETUP: Create and populate tables from CSV files
--- In VS Code with SQLite extension, run the .import commands
--- via terminal: sqlite3 ecommerce.db < Ecommerce_Analysis.sql
--- OR use DB Browser for SQLite to import CSVs directly.
 -- ============================================================
 
 -- DROP tables if they already exist
