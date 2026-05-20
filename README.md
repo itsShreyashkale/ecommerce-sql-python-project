@@ -62,14 +62,6 @@ PYTHON_SQL/
 │   ├── Figure_2.png
 │   └── Figure_3.png
 │
-├── xlsx/
-│   ├── customers.xlsx
-│   ├── order_items.xlsx
-│   ├── orders.xlsx
-│   ├── payments.xlsx
-│   ├── products.xlsx
-│   └── sellers.xlsx
-│
 ├── README.md
 ├── sql_python_present.pdf
 └── sql_python_present.pptx
